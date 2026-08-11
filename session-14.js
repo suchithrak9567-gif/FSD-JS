@@ -1,6 +1,6 @@
 // let a=10;
 // let b=20;
-// // function
+// // function declearation
 // function greet(){
 //     // logic
 //     console.log("Hello World");
@@ -100,3 +100,4 @@
 // gradecheck(90);
 // const result=gradecheck(90);
 // console.log("Result: " + result);
+
